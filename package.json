@@ -31,7 +31,7 @@
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
-    "mermaid": "^7.0.0",
+    "mermaid": "^8.7.0",
     "pkg": "^3.0.3"
   }
 }
